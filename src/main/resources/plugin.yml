@@ -1,0 +1,5 @@
+name: SurvieApi
+version: '${version}'
+main: fr.tetemh.survieapi.SurvieApi
+api-version: 1.19
+authors: [ tetemh ]
